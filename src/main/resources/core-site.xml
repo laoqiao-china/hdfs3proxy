@@ -1,0 +1,6 @@
+<configuration>
+    <property>
+        <name>fs.hdfs.impl</name>
+        <value>hdfs3proxy.HDFS3ProxyFileSystemImpl</value>
+    </property>
+</configuration>
